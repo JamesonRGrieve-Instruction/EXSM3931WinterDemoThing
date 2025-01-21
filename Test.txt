@@ -3,9 +3,11 @@ Hello, World!
 Test 1
 Content from the first copy of the repository.
 Test 2
-
+Second change from the first copy.
 Test 3
 Change on the second copy that will cause a conflict.
+We can make live changes to the merge conflict.
+Third change from the first copy.
 Test 4 
 A change from the second copy.
 Test 5

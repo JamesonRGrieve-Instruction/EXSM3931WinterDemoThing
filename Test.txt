@@ -5,7 +5,7 @@ Content from the first copy of the repository.
 Test 2
 
 Test 3
-
+Change on the second copy that will cause a conflict.
 Test 4 
 A change from the second copy.
 Test 5

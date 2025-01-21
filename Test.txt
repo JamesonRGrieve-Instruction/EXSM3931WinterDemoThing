@@ -7,5 +7,5 @@ Second change from the first copy.
 Test 3
 
 Test 4 
-
+A change from the second copy.
 Test 5
